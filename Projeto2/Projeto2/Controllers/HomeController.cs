@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Projeto2.Models;
+using Projeto2.Repositorio;
 using System.Diagnostics;
 
 namespace Projeto2.Controllers

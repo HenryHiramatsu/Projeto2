@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Projeto2.Models;
+using Projeto2.Repositorio;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Projeto2.Controllers
 {
